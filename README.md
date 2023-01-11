@@ -1,6 +1,7 @@
 <h1 align="center">Resources for Development and Design</h1>
 
-<h2 align="center">Figma</h2>
+<h2 align="center">Design</h2>
+<h3 align="center">Figma</h3>
 
 ## Beginner tutorials:
 https://youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4
