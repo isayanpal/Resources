@@ -59,7 +59,9 @@ https://git-scm.com/docs/gittutorial
 
 ## REACT:
 https://www.youtube.com/watch?v=Dorf8i6lCuk \
-https://www.youtube.com/watch?v=w7ejDZ8SWv8
+https://www.youtube.com/watch?v=w7ejDZ8SWv8 \
+https://www.youtube.com/watch?v=bMknfKXIFA8 \
+https://www.youtube.com/watch?v=u6gSSpfsoOQ
 
 ## Mongodb(database):
 https://www.youtube.com/watch?v=Www6cTUymCY \
