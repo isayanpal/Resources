@@ -61,7 +61,8 @@ https://git-scm.com/docs/gittutorial
 https://www.youtube.com/watch?v=Dorf8i6lCuk \
 https://www.youtube.com/watch?v=w7ejDZ8SWv8 \
 https://www.youtube.com/watch?v=bMknfKXIFA8 \
-https://www.youtube.com/watch?v=u6gSSpfsoOQ
+https://www.youtube.com/watch?v=u6gSSpfsoOQ \
+https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt
 
 ## Mongodb(database):
 https://www.youtube.com/watch?v=Www6cTUymCY \
