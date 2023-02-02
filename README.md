@@ -59,7 +59,7 @@ https://git-scm.com/docs/gittutorial
 # HOSTING A WEBSITE FOR FREE:
 https://www.youtube.com/watch?v=OltY8JIaP-4 (for hosting static pages i.e. only frontend website which is built using html,css & js ) \
 https://www.youtube.com/watch?v=KVoB2s_6KSw \
-https://www.youtube.com/watch?v=i9qCmQ2EeUA&t=628s \
+https://www.youtube.com/watch?v=i9qCmQ2EeUA&t=628s 
 
 
 
