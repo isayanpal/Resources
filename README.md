@@ -73,6 +73,7 @@ https://www.youtube.com/watch?v=u6gSSpfsoOQ \
 https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt
 
 ## Mongodb(database):
+https://www.youtube.com/watch?v=oSIv-E60NiU \
 https://www.youtube.com/watch?v=Www6cTUymCY \
 https://www.youtube.com/watch?v=pWbMrx5rVBE&t=708s
 
