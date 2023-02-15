@@ -89,5 +89,4 @@ https://youtube.com/playlist?list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp
 ## Mern stack projects:
 https://youtube.com/playlist?list=PLI0saxAvhd_OdRWyprSe3Mln37H0u4DAp
 
-# For all COURSES - Literally EVERYTHING U WANT!!!! :
-https://mega.nz/folder/i7IHWQpS#BofxFO1r5UiR86gkVzLgAw
+
