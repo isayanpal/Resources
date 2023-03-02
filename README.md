@@ -33,7 +33,10 @@ https://www.w3schools.com/html/
 https://www.youtube.com/watch?v=OXGznpKZ_sA
 ## Resources:
 https://web.dev/learn/css/ \
-https://www.w3schools.com/css/
+https://www.w3schools.com/css/ \
+https://learncssgrid.com/ \
+https://cssreference.io/ \
+`practice flex-box` https://flexboxfroggy.com/
 
 ## To practice projects for HTML & CSS- 
 https://www.frontendpractice.com/ \
@@ -45,6 +48,7 @@ https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP \
 https://www.youtube.com/watch?v=jS4aFq5-91M
 ## Resources:
 https://www.w3schools.com/js/ \
+https://learn-js.org/ \
 https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/
 
 
@@ -70,11 +74,13 @@ https://www.youtube.com/watch?v=Dorf8i6lCuk \
 https://www.youtube.com/watch?v=w7ejDZ8SWv8 \
 https://www.youtube.com/watch?v=bMknfKXIFA8 \
 https://www.youtube.com/watch?v=u6gSSpfsoOQ \
-https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt
+https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt \
+https://youtu.be/hQAHSlTtcmY 
 
 ## Mongodb(database):
 https://www.youtube.com/watch?v=Www6cTUymCY \
-https://www.youtube.com/watch?v=pWbMrx5rVBE&t=708s
+https://www.youtube.com/watch?v=pWbMrx5rVBE&t=708s \
+https://youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA 
 
 ## Nodejs:
 https://www.youtube.com/watch?v=U8XF6AFGqlc
