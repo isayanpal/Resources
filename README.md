@@ -38,6 +38,9 @@ https://learncssgrid.com/ \
 https://cssreference.io/ \
 `practice flex-box` https://flexboxfroggy.com/
 
+## Tailwind CSS
+https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
+
 ## To practice projects for HTML & CSS- 
 https://www.frontendpractice.com/ \
 https://www.frontendmentor.io/
