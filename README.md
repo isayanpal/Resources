@@ -91,7 +91,11 @@ https://youtu.be/hQAHSlTtcmY
 https://www.youtube.com/watch?v=oSIv-E60NiU \
 https://www.youtube.com/watch?v=Www6cTUymCY \
 https://www.youtube.com/watch?v=pWbMrx5rVBE&t=708s \
-https://youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA 
+https://youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
+
+### Mongoose docs-
+https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/ \
+https://medium.com/itnext/performance-tips-for-mongodb-mongoose-190732a5d382
 
 ## Nodejs:
 https://www.youtube.com/watch?v=U8XF6AFGqlc
