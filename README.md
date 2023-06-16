@@ -109,4 +109,5 @@ https://youtube.com/playlist?list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp
 ## Mern stack projects:
 https://youtube.com/playlist?list=PLI0saxAvhd_OdRWyprSe3Mln37H0u4DAp
 
-
+## Next js:
+https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH
