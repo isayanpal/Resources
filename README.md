@@ -110,4 +110,8 @@ https://youtube.com/playlist?list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp
 https://youtube.com/playlist?list=PLI0saxAvhd_OdRWyprSe3Mln37H0u4DAp
 
 ## Next js:
-https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH
+https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH \
+https://youtu.be/wm5gMKuwSYk
+
+## Framer Motion:
+https://youtube.com/playlist?list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i
