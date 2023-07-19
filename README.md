@@ -87,6 +87,8 @@ https://www.youtube.com/watch?v=i9qCmQ2EeUA&t=628s
 https://www.youtube.com/watch?v=bMknfKXIFA8 \
 https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt 
 
+## Redux -
+https://youtu.be/zrs7u6bdbUw
 
 ## Mongodb(database):
 https://www.youtube.com/watch?v=oSIv-E60NiU \
