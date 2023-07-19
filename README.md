@@ -53,6 +53,10 @@ https://www.frontendmentor.io/
 
 # JAVASCRIPT:
 ## Tutorials:
+https://youtu.be/SBmSRK3feww - Part 1 \
+https://youtu.be/TmcEmsyYKXE - Part 2 
+
+## JS Concepts-
 https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP \
 https://www.youtube.com/watch?v=jS4aFq5-91M
 ## Resources:
