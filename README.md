@@ -30,6 +30,7 @@ https://www.w3schools.com/html/
 
 # CSS:
 ## Tutorials:
+https://youtu.be/QRrPE9aj3wI \
 https://www.youtube.com/watch?v=OXGznpKZ_sA
 ## Resources:
 https://web.dev/learn/css/ \
