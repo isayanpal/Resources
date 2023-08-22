@@ -7,8 +7,6 @@
 https://youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4
 ## Hands on tutorials:
 https://youtube.com/playlist?list=PLuou2gyfaGEud03tcppC1ofbYIcIEwKfm
-## Motion design with Figma:
-https://youtube.com/playlist?list=PL0Xzn_h0xwjSVI1Ik73phSGWtw7xvqV2X
 ## Plugins for Figma:
 https://www.youtube.com/watch?v=QaA_XmXNGaI \
 https://www.youtube.com/watch?v=L3TLxE_LxP8&t=69s \
