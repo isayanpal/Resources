@@ -108,8 +108,9 @@ https://www.youtube.com/watch?v=gnsO8-xJ8rs&t=991s
 https://youtube.com/playlist?list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp
 
 
-## Mern stack projects:
-https://youtube.com/playlist?list=PLI0saxAvhd_OdRWyprSe3Mln37H0u4DAp
+## Full-stack projects:
+https://youtube.com/playlist?list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN&si=FVti8PQM3j1MXlKu \
+https://youtu.be/-42K44A1oMA?si=uD4zYiydtxzga4no
 
 ## Next js:
 https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH \
