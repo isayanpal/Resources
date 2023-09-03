@@ -1,22 +1,4 @@
-<h1 align="center">Resources for Development and Design</h1>
-
-<h2 align="center">Design</h2>
-<h3 align="center">Figma</h3>
-
-## Beginner tutorials:
-https://youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4
-## Hands on tutorials:
-https://youtube.com/playlist?list=PLuou2gyfaGEud03tcppC1ofbYIcIEwKfm
-## Plugins for Figma:
-https://www.youtube.com/watch?v=QaA_XmXNGaI \
-https://www.youtube.com/watch?v=L3TLxE_LxP8&t=69s \
-https://www.youtube.com/watch?v=DI4Srgk0bMY \
-https://youtu.be/raAKFfy4p3A
-## To get ideas about design and showcase your work in this platform:
-https://www.behance.net/ \
-http://Dribbble.com
-
-<h2 align="center">WEB dev</h2>
+<h1 align="center">Resources for Web Development and Design</h1>
 
 <h3 align="center">Frontend Development</h3>
 
@@ -77,7 +59,6 @@ https://www.youtube.com/watch?v=OltY8JIaP-4 (for hosting static pages i.e. only 
 Vercel - https://www.youtube.com/watch?v=mP8KIAros70 \
 https://www.youtube.com/watch?v=KVoB2s_6KSw \
 https://www.youtube.com/watch?v=i9qCmQ2EeUA&t=628s 
-
 
 
 <h3 align="center">MERN Stack</h3>
