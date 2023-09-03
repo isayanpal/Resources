@@ -1,4 +1,4 @@
-<h1 align="center">Resources for Web Development and Design</h1>
+<h1 align="center">Resources for Web Development</h1>
 
 <h3 align="center">Frontend Development</h3>
 
