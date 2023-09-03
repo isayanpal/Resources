@@ -1,4 +1,4 @@
-<h1 align="center">Resources for Development and
+<h1 align="center">Resources for Design</h1>
 <h3 align="center">Figma</h3>
 
 ## Beginner tutorials:
