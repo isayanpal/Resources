@@ -1,10 +1,12 @@
 <h1 align="center">Resources for Design</h1>
-<h3 align="center">Figma</h3>
 
-## Beginner tutorials:
+## UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma
+- https://www.youtube.com/watch?v=c9Wg6Cb_YlU
+
+## Beginner tutorials Figma:
 - https://youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4
 
-## Hands on tutorials:
+## Hands on tutorials Figma:
 - https://youtube.com/playlist?list=PLuou2gyfaGEud03tcppC1ofbYIcIEwKfm
 
 ## Plugins for Figma:
