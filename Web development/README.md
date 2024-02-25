@@ -98,6 +98,9 @@ Sample project-
 - State management using Redux
 - Link - https://youtube.com/playlist?list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm&si=-29KOfKN-pZFpfXy
 
+### MERN stack project ideas:
+https://altcampus.com/posts/10-full-stack-beginner-project-ideas-for-learning-MERN-stack
+
 ### Blogs on MERN-stack:
 - https://blog.devgenius.io/24-essential-vscode-extensions-for-mern-stack-developers-5b4a92360639
 
