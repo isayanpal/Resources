@@ -5,7 +5,7 @@ import { GrResources } from "react-icons/gr";
 
 const Header = () => {
   return (
-    <div className="flex flex-row justify-between sm:justify-around px-2 gap-3">
+    <div className="flex flex-row justify-between sm:justify-around py-4 px-2 gap-3">
       <Link to={"/"}>
         <div className="cursor-pointer font-bold text-2xl text-[#1D24CA] flex flex-row items-center gap-1">
           <GrResources /> Resourcify
