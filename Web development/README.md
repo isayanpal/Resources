@@ -4,14 +4,14 @@
 
 # HTML:
 ## Tutorials:
-- https://www.youtube.com/watch?v=kUMe1FH4CHE
+- https://www.youtube.com/watch?v=qz0aGYrrlhU
 ## Resources:
 - https://www.w3schools.com/html/
 
 # CSS:
 ## Tutorials:
-- https://youtu.be/QRrPE9aj3wI 
-- https://www.youtube.com/watch?v=OXGznpKZ_sA
+- https://www.youtube.com/watch?v=QRrPE9aj3wI&feature=youtu.be
+- https://www.youtube.com/playlist?list=PLhzIaPMgkbxBk9-drEC0MBPqEOXpVlwY4
 
 ## Resources:
 - https://web.dev/learn/css/ 
@@ -23,8 +23,14 @@
 ## Bootstrap CSS
 - https://www.youtube.com/watch?v=4sosXZsdy-s
 
+## Bootstrap Docs
+- https://getbootstrap.com/
+
 ## Tailwind CSS
 - https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw 
+
+## Tailwind Docs
+- https://tailwindcss.com/
 
 Sample project-
 - https://www.youtube.com/watch?v=8eQwgc9nc64
@@ -35,12 +41,10 @@ Sample project-
 
 # JAVASCRIPT:
 ## Tutorials:
-- https://youtu.be/SBmSRK3feww - Part 1 
-- https://youtu.be/TmcEmsyYKXE - Part 2 
+- https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37
 
 ## JS Concepts-
-- https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP 
-- https://www.youtube.com/watch?v=jS4aFq5-91M
+- https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 
 ## Resources:
 - https://www.w3schools.com/js/ 
@@ -50,8 +54,8 @@ Sample project-
 
 # GIT & GITHUB:
 ## Tutorials:
-- https://www.youtube.com/watch?v=apGV9Kg7ics 
-- https://www.youtube.com/watch?v=RGOj5yH7evk&t=5s
+- https://www.youtube.com/watch?v=q8EevlEpQ2A&t=8645s
+- https://www.youtube.com/watch?v=apGV9Kg7ics
 ## Git documentation:
 - https://git-scm.com/docs/gittutorial
 
@@ -66,27 +70,25 @@ Sample project-
 <h3 align="center">MERN Stack</h3>
 
 ## REACT:
-- https://www.youtube.com/watch?v=bMknfKXIFA8 
-- https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt 
+- https://www.youtube.com/playlist?list=PLRAV69dS1uWQos1M1xP6LWN6C-lZvpkmq
 
 ## Redux -
 - https://youtu.be/zrs7u6bdbUw
 
 ## Mongodb(database):
-- https://www.youtube.com/watch?v=oSIv-E60NiU 
-- https://www.youtube.com/watch?v=Www6cTUymCY 
-- https://www.youtube.com/watch?v=pWbMrx5rVBE&t=708s 
-- https://youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
+- https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
 
 ### Mongoose docs-
 - https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/ 
 - https://medium.com/itnext/performance-tips-for-mongodb-mongoose-190732a5d382
 
-## Nodejs:
-- https://www.youtube.com/watch?v=U8XF6AFGqlc
+## Nodejs: 
+- npm: https://www.youtube.com/watch?v=P3aKRdUyr0s
+- node: https://www.youtube.com/watch?v=ENrzD9HAZK4
 
 ## Expressjs:
-- https://www.youtube.com/watch?v=gnsO8-xJ8rs&t=991s
+- https://www.youtube.com/watch?si=Hh2r5c6hWYIy4bCa&v=SccSCuHhOw0&feature=youtu.be
+
 ## Node js and express(backend): 
 - https://youtube.com/playlist?list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp
 
@@ -104,10 +106,12 @@ https://altcampus.com/posts/10-full-stack-beginner-project-ideas-for-learning-ME
 ### Blogs on MERN-stack:
 - https://blog.devgenius.io/24-essential-vscode-extensions-for-mern-stack-developers-5b4a92360639
 
+## Typescript:
+- Tutorial: https://www.youtube.com/watch?v=d56mG7DezGs
+- React-typescript : https://www.youtube.com/watch?v=665UnOGx3Pg
 
 ## Next js:
-- https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH \
-- https://youtu.be/wm5gMKuwSYk
+- https://www.youtube.com/watch?v=cVKB5NQPiFA
 
 ## Framer Motion:
 - https://youtube.com/playlist?list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i
